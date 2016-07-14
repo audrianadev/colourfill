@@ -1,6 +1,6 @@
 colourfill
 ==========
-Colourfill is a jQuery colouring plugin that allows you to "colour in" elements based on your screen specified "choose a color" buttons. It is adapted from code I created to help build an online colouring book website - <a href="http://colourfill.ca">colourfill.ca</a>.
+Colourfill is a jQuery colouring plugin that allows you to "colour in" elements on your screen based on specified "choose a color" buttons. It is adapted from code I created to help build an online colouring book website - <a href="http://colourfill.ca">colourfill.ca</a>.
 
 Author
 -------
