@@ -44,7 +44,7 @@ Add the class "coloured" to an element after it is coloured in.
 
 Example
 --------
-<a href="http://audrianaandrews.com/portfolio/colourfill-plugin-test" target="_blank">Click here to see a working example of the plugin.</a>
+<a href="http://audrianaandrews.com/examples/colourfill-plugin-test/" target="_blank">Click here to see a working example of the plugin.</a>
 
 License
 -------
