@@ -4,7 +4,7 @@ Colourfill is a jQuery plugin that allows you to change the background colour of
 
 Author
 -------
-<a href="http://audrianaandrews.com" target="_blank">Audriana Andrews</a>
+<a href="http://audriana.dev" target="_blank">Audriana Andrews</a>
 
 Example Use
 ---------
@@ -44,7 +44,7 @@ Add the class "coloured" to an element after it is coloured in.
 
 Example
 --------
-<a href="http://audrianaandrews.com/examples/colourfill-plugin-test/" target="_blank">Click here to see a working example of the plugin.</a>
+<a href="http://audriana.dev/examples/colourfill-plugin-test/" target="_blank">Click here to see a working example of the plugin.</a>
 
 License
 -------
